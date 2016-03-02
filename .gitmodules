@@ -1,3 +1,6 @@
 [submodule ".homesick/repos/homeshick"]
 	path = .homesick/repos/homeshick
 	url = https://github.com/andsens/homeshick.git
+[submodule ".homesick/repos/prezto"]
+	path = .homesick/repos/prezto
+	url = https://github.com/asobrien/prezto.git
